@@ -553,3 +553,27 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.flex {
+  display: flex;
+}
+
+.h-\[35px\] {
+  height: 35px;
+}
+
+.h-\[3px\] {
+  height: 3px;
+}
+
+.h-\[36px\] {
+  height: 36px;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[35px\] {
+  width: 35px;
+}
