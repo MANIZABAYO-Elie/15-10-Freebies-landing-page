@@ -909,6 +909,10 @@ video {
   margin-top: 410px;
 }
 
+.mt-\[23px\] {
+  margin-top: 23px;
+}
+
 .block {
   display: block;
 }
@@ -1105,6 +1109,10 @@ video {
   width: 427.88px;
 }
 
+.w-\[24px\] {
+  width: 24px;
+}
+
 .justify-center {
   justify-content: center;
 }
@@ -1256,6 +1264,10 @@ video {
 
 .text-\[1px\] {
   font-size: 1px;
+}
+
+.text-\[14px\] {
+  font-size: 14px;
 }
 
 .font-\[400\] {
